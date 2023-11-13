@@ -1,1 +1,1 @@
-# Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
+# Ecommerce store built using HTML, CSS, Javascript.
