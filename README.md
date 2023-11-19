@@ -1,1 +1,1 @@
-# Ecommerce store built using HTML, CSS, Javascript.
+# Ecommerce store built using HTML, CSS and Javascript.
